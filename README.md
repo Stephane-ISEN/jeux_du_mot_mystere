@@ -13,7 +13,7 @@ Le CSS permet d'appliquer un style à une balise html. Vous trouverez dans le r�
       font-size: 2.5em;
     }
 
-Le CSS s'écrit toujours de la même façon : un sélécteur suivit des règles de style. Les sélecteurs sont de 3 types, comme dans notre exemple :
+Le CSS s'écrit toujours de la même façon : un sélecteur suivit des règles de style. Les sélecteurs sont de 3 types, comme dans notre exemple :
 * __body__ : en appelant directement la balise sur laquelle il faut appliquer le style.
 * __#entete__ : en appelant l'__id__ de la balise sur laquelle il faut appliquer le style.
 * __.aTrouver__ : en appelant la __class__ des balises sur les quelles il faut appliquer le style.
