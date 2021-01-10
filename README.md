@@ -186,7 +186,7 @@ Le __for__ va répéter le code __//todo__ autant de fois qu'il lui faut pour co
 Le __if__ ne va exécuter le __//todo si vrai__ que si la condition est vraie. Si elle est fausse, c'est le code __//todo si faux__ qui est exécuté.
 * __saisie == lettre__ : condition à tester, ici la variable __saisie__ doit être égale à la variable __lettre__
 * __//todo si vrai__ : commentaire qui représente le code à exécuter si la condition est _vraie_,
-* __else__ : mot clé pour indiqué où débute la partie du code _sinon_,
+* __else__ : mot clé pour indiquer où débute la partie du code _sinon_,
 * __//todo si faux__ : commentaire qui représente le code à exécuter si la condition est _fausse_.
 
 
