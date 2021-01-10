@@ -229,4 +229,4 @@ En vous inspirant de la fonction __gagner(nodes, solution)__ codez la fonction _
 
 Puis ajoutez l'évènement _click_ sur le bouton d'__id__ _fin_. Le code de cet évènement appel la fonction __perdre()__.
 
-Enfin, vous allez pouvoir coder les différents niveaux de jeu dans l'[étape 6](https://github.com/StephaneGRETA/jeux_du_mot_mystere/tree/step-6).
+Enfin, vous allez pouvoir coder les différents niveaux de jeu dans l'[étape 6](https://github.com/Stephane-ISEN/jeux_du_mot_mystere/tree/step-6).
