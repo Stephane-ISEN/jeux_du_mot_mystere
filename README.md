@@ -35,7 +35,7 @@ Pour épurer un peu, nous allons enlever la ligne de soulignement grâce à la r
 ## Pour la page du jeu du pendu
 
 ## classe aTrouver
-Pour les __INPUTS__, repérées grâce à la classe _aTrouver_, il nous faudrez des champs un peux moins resserrer  (grâce au __margin__) et un texte centré.
+Pour les __INPUTS__, repérées grâce à la classe _aTrouver_, il nous faudrait des champs un peux moins resserrer  (grâce au __margin__) et un texte centré.
 
 ## button
 Il faut rajouter le sélecteur, et les règles qui vont avec, pour avoir des boutons qui ont pour style :
