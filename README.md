@@ -87,13 +87,13 @@ Le lien hypertexte est l'un des principes fondamentaux du web. Simple à mettre 
 
 Modifions notre _index.html_ pour ajouter un lien vers la page _jeu.html_. Reprenez la la première ligne de la liste à puces, et ajoutez la balise __A__ comme suit :
 
-    <li><a href="jeu.html?niveau=6">niveau 1</a></li>
+    <li><a href="jeu.html?niveau=6">niveau facile</a></li>
     
 * __A__ : balise de lien hypertexte. 
 * __href__ : paramètre pour définir l'URL de la page à atteindre.
 * __"jeu.html"__ : URL de la page à atteindre.
 *__?niveau=6"__ : passe un paramètre à la page à atteindre.
-* __niveau 1__ : lien apparaissant sur la page web.
+* __niveau facile__ : lien apparaissant sur la page web.
 
 Si vous avez bien compris le principe, modifiez la deuxième ligne pour atteindre la page _jeu.html_ en passant le paramètre __niveau=7__.
 
